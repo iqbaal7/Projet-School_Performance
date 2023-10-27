@@ -8,7 +8,7 @@
   <link type="text/css" href="./loginprojet.css" rel="stylesheet">
 
      <!-- Titre de la Page html -->
-    <title> page de Login </title>
+    <title> Login </title>
       
 </head>
 
